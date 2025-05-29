@@ -1,0 +1,7 @@
+## Interface: 110105
+## Title: EnhancedCamera
+## Notes: Enhance and speed up your camera
+## Author: Lorade
+## Version: 12.1
+
+Core.lua
