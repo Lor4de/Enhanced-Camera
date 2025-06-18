@@ -2,6 +2,6 @@
 ## Title: EnhancedCamera
 ## Notes: Enhance and speed up your camera
 ## Author: Lorade
-## Version: 12.1
+## Version: 12.2
 
 Core.lua
